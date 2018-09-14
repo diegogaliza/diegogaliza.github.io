@@ -1,0 +1,23 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/js/materialize.min.js"></script>
+<script type="text/javascript" >
+    $(document).ready(function(){
+          $('.parallax').parallax();
+          $('.carousel').carousel();
+          $('.materialboxed').materialbox();
+          
+          $("#github-link").addClass("open");
+            setTimeout(function(){
+                $("#github-link").addClass("closing");
+                $("#github-link").removeClass("open");
+                setTimeout(function(){
+                    $("#github-link").removeClass("closing");
+                }, 300);
+          },2000);
+
+        //   $('.tap-target').tapTarget('open');
+        //   setTimeout(function(){
+        //         $('.tap-target').tapTarget('close');
+        //   },2000);
+    });
+</script>
