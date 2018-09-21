@@ -9,7 +9,7 @@ Já se perguntou sobre as diferenças das versões do Visual Studio? O que o Ent
 
 <!--more-->
 
-{% include image.html link="https://onedrive.live.com/embed?cid=FDCAC0106BA5E6A9&resid=FDCAC0106BA5E6A9%218936&authkey=AEI56949gU7CT1Y" alt="Comparativo Visual Studio" width=90 %}
+{% include image.html link="https://1mxfvg.bn.files.1drv.com/y4mLbWls0ocs9l21be6ni8f2WH74-Hy5eFOPvRGXhZNEx37nGqPn6qJ9fYqgn9GySOleVwxRXIXpJnCTcFRDLqdQBVmJ1fmlaxoE5b2f_AR_3CcaG31yOnyU10J_VsQFQQgHUiFH-TrhpqPH7W3Uoutd6ep_pG3A_jzpQdij6hnUszuXRqk9_ZeWNd2V7zeERrVB0pQxRhdsc1SURfwDv0AbA?width=1351&height=3296&cropmode=none" alt="Comparativo Visual Studio" width=90 %}
 
 Legenda:
 
