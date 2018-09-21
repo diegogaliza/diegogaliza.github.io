@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "1.1. Escrevendo aplicações usando Visual C#"
+date:   2018-03-01 00:00:00 +0000
+comments: true
+tags:
+serie: Aprenda C#
+---
+Vamos a uma breve visão geral sobre o ambiente que vamos pisar. Aqui vamos ver um pouco do framework .NET e do Visual Studio. 
+
+<!--more-->
+
+O framework .NET 4.7 e o Visual Studio oferecem muitas funcionalidades que podem ser usadas para desenvolver uma aplicação. Vamos explorar aqui as principais funcionalidades oferecidas e um pouco da arquitetura que um software desenvolvido em C# em cima do .NET utiliza. 
+
+**O que você vai precisar?**
+
+- Da versão 4.7 do framework .NET que você pode conseguir [aqui](https://www.microsoft.com/net/download/dotnet-framework-runtime).
+
+
+Do Visual Studio Community 2017 que você pode conseguier [aqui](https://visualstudio.microsoft.com/vs/community/).
+
+O Visual Studio Community 2017 é a versão gratuita do Visual Studio, e basicamente contém as funcionalidades básicas para desenvolver um programa do começo ao fim. Entenda melhor as diferenças das versões do Visual Studio neste artigo:
+
+É isso aí! Você está pronto!
+
+**O que é o framework .NET?**
+
+Resumidamente, um framework é um aglomerado de ferramentas que facilitam o desenvolvimento de determinadas tarefas. O framework .NET é desenvolvido pela Microsoft e permite o desenvolvimento rápido e seguro de uma grande gama de aplicações e serviços que podem funcionam em diversas plataformas. 
+O IDE (ambiente de desenvolvimento integrado) mais utilizado para construção de aplicações que utilizam o framework .NET é o Visual Studio, que atualmente é um IDE muito completo e de fácil manuseio.
+O framework .NET 4.7 contém três elementos principais:
+
+1.CLR (Common Language Runtime).
+
+2.FCL (Framework Class Library). 
+
+3.Uma coleção de frameworks de desenvolvimento. 
+

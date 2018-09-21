@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "1. Objetivos do Módulo 01"
+date:   2018-02-28 00:00:00 +0000
+comments: true
+tags: 
+serie: Aprenda C#
+---
+**Objetivos do Módulo 01** 
+
+<!--more-->
+
+O Microsoft .NET Framework 4.7 é uma plataforma completa de desenvolvimento de aplicações e serviços para diversas plataformas, em conjunto com o Visual Studio e a linguagem C#, é possível criar aplicações flexíveis, escaláveis e completas. Após as três lições deste módulo, espera-se que você seja capaz de:
+
+1. descrever a arquitetura do framework .NET e os recursos básicos que o Visual Studio e a linguagem C# fornecem.
+2. usar tipos, operadores e expressões do Visual C#.
+3. usar construtores padrões do Visual C#. 
+
+Procurei facilitar ao máximo o entendimento em português deste pequeno curso, contudo muita coisa ainda será referenciada em inglês, pois ainda é o padrão no mercado de trabalho, além de alguns termos serem de difícil correspondência em nosso idioma. Enfim, tentei facilitar ao mmáximo para aqueles que não dominam inglês, mas fica a dica: vai entrar em TI, vai ser programador, analista de negócio, gerente de projeto, etc, invista um pouco de tempo no idioma, pois para a área é de fundamental importância posto que muito do conteúdo como certificação, manuais, tutoriais, vídeos estão disponíveis apenas em inglês. 
+
+Bons estudos!
