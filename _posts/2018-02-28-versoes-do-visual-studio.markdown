@@ -12,6 +12,7 @@ Já se perguntou sobre as diferenças das versões do Visual Studio? O que o Ent
 {% include image.html link="https://onedrive.live.com/embed?cid=FDCAC0106BA5E6A9&resid=FDCAC0106BA5E6A9%218936&authkey=AEI56949gU7CT1Y" alt="Comparativo Visual Studio" width=90 %}
 
 Legenda:
+
 1. As organizações classificadas como "Enterprise" são definidas por mais de 250 PCs ativos ou um milhão de dólares em receita. 
 2. Windows Desktop, Universal Windows Apps, Web (ASP.NET), Office 365, Business Applications, Apache Cordova, Azure Stack, C++ Cross-Platform Library Development, Python, Node.js, .NET Core, Docker Tools.
 3. Pode abrir diagramas gerados por outras versões do Visual Studio em modo de leitura apenas.
